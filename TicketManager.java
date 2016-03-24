@@ -44,7 +44,6 @@ public class TicketManager {
             }
             else {
                 //this will happen for 3 or any other selection that is a valid int
-                //TODO Program crashes if you enter anything else - please fix
                 //Default will be print all tickets
                 printAllTickets(ticketQueue);
             }
